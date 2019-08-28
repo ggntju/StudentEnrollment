@@ -1,0 +1,8 @@
+courseID	courseName	fees
+AL101	AI Learning 101	600.0	
+BA101	Business Analytics 101	600.0	
+CS101	Computer Science 101	600.0	
+CS102	Computer Science 102	600.0	
+DL101	Deep Learning 101	600.0	
+DS101	Data Science 101	600.0	
+ML101	Machine Learning 101	600.0	
